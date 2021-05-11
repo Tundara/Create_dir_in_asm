@@ -1,5 +1,7 @@
 BITS 64
 
+;Created by Tundara
+
 global _start
 
 section .rodata 
